@@ -1,0 +1,10 @@
+.container{
+    height: 220px;
+    width: 500px;
+    
+}
+h2{
+    background-color: green;
+    text-align: center;
+    height: 40px;
+}
